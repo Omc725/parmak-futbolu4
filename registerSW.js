@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/parmak-futbolu4/sw.js', { scope: '/parmak-futbolu4/' })})}
